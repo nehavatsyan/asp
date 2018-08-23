@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+   <ImageUrl>~\Images\Google.png</ImageUrl>
+    <NavigateUrl>http://google.com</NavigateUrl>
+    <AlternativeText>Please visit https://www.google.com</AlternativeText>
+    <Impressions>2</Impressions>
+    <TargetUrl>_blank</TargetUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\Images\Youtube.png</ImageUrl>
+    <NavigateUrl>http://google.com</NavigateUrl>
+    <AlternativeText>Please visit https://www.youtube.com</AlternativeText>
+    <Impressions>2</Impressions>
+  </Ad>
+</Advertisements>

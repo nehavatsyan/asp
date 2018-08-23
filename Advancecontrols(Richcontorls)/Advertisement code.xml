@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~\AdBanners\1.jpg</ImageUrl>
+    <NavigateUrl>http://www.flipkart.com</NavigateUrl>
+    <AlternativeText>Please visit https://www.flipkart.com</AlternativeText>
+    <Impressions>1</Impressions>
+    <TargetUrl>_blank</TargetUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\AdBanners\2.jpg</ImageUrl>
+    <NavigateUrl>http://www.amazon.com</NavigateUrl>
+    <AlternativeText>Please visit https://www.amazon.com</AlternativeText>
+    <Impressions>1</Impressions>
+    <TargetUrl>_blank</TargetUrl>
+  </Ad>
+  <Ad>
+  <ImageUrl>~\AdBanners\3.jpg</ImageUrl>
+  <NavigateUrl>http://www.Myntra.com</NavigateUrl>
+  <AlternativeText>Please visit https://www.Myntra.com</AlternativeText>
+  <Impressions>1</Impressions>
+  <TargetUrl>_blank</TargetUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\AdBanners\4.jpg</ImageUrl>
+    <NavigateUrl>http://www.Jabong.com</NavigateUrl>
+    <AlternativeText>Please visit https://www.Jabong.com</AlternativeText>
+    <Impressions>1</Impressions>
+    <TargetUrl>_blank</TargetUrl>
+  </Ad>
+</Advertisements>
